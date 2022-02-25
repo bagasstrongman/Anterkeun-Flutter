@@ -4,7 +4,7 @@
 | ------------- | -------------    | 
 | [![Screenshot-1645688467.png](https://i.postimg.cc/d31VhTt7/Screenshot-1645688467.png)](https://postimg.cc/sQkr8xWy) |  [![Screenshot-1645688473.png](https://i.postimg.cc/yN146CNx/Screenshot-1645688473.png)](https://postimg.cc/75WQXc0r) |
 
-Font use in this App Concept : [fonts.google.com](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies) & [fonts.google.com](https://fonts.google.com/specimen/Source+Serif+Pro?preview.size=38&query=source+serif)
+Font use in this App Concept : [Rowdies](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies) & [Source Serif](https://fonts.google.com/specimen/Source+Serif+Pro?preview.size=38&query=source+serif)
 
 ## Getting Started
 
